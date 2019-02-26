@@ -1976,34 +1976,12 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">acm:diglibrary</bcf:citekey>
-    <bcf:citekey order="2">acm:diglibrary</bcf:citekey>
-    <bcf:citekey order="3">ieee:xplore</bcf:citekey>
-    <bcf:citekey order="4">ieee:xplore</bcf:citekey>
-    <bcf:citekey order="5">Batina:2011</bcf:citekey>
-    <bcf:citekey order="6">Fernandez-Mir:2011</bcf:citekey>
-    <bcf:citekey order="8">Li:2008</bcf:citekey>
-    <bcf:citekey order="9">Batina:2011</bcf:citekey>
-    <bcf:citekey order="10">Batina:2011</bcf:citekey>
-    <bcf:citekey order="11">Batina:2011</bcf:citekey>
-    <bcf:citekey order="12">Google:2017a</bcf:citekey>
-    <bcf:citekey order="12">Google:2016a</bcf:citekey>
-    <bcf:citekey order="13">Zobel:2004</bcf:citekey>
-    <bcf:citekey order="14">Zobel:2004</bcf:citekey>
-    <bcf:citekey order="15">Yin:2013</bcf:citekey>
-    <bcf:citekey order="16">Yin:2013</bcf:citekey>
-    <bcf:citekey order="17">Strunk:2000</bcf:citekey>
-    <bcf:citekey order="18">Strunk:2000</bcf:citekey>
-    <bcf:citekey order="19">Field:2003</bcf:citekey>
-    <bcf:citekey order="20">Field:2003</bcf:citekey>
-    <bcf:citekey order="21">Booth:2008</bcf:citekey>
-    <bcf:citekey order="22">Booth:2008</bcf:citekey>
-    <bcf:citekey order="23">Alley:1998</bcf:citekey>
-    <bcf:citekey order="24">Alley:1998</bcf:citekey>
-    <bcf:citekey order="25">Eco:2010</bcf:citekey>
-    <bcf:citekey order="26">Eco:2010</bcf:citekey>
-    <bcf:citekey order="27">Wisconsin:2004</bcf:citekey>
-    <bcf:citekey order="28">Wisconsin:2004</bcf:citekey>
+    <bcf:citekey order="1">Rubin:2012</bcf:citekey>
+    <bcf:citekey order="2">Rubin:2012</bcf:citekey>
+    <bcf:citekey order="3">Beck:2001</bcf:citekey>
+    <bcf:citekey order="4">Rubin:2012</bcf:citekey>
+    <bcf:citekey order="5">Ramadan:2016</bcf:citekey>
+    <bcf:citekey order="6">Opelt:2013</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
